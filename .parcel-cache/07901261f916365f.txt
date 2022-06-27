@@ -1,0 +1,5 @@
+4
+25D:\Yang\jirengu\dom-2\src133006982918832827 1
+36D:\Yang\jirengu\dom-2\src\index.html133006985714272455 0
+35D:\Yang\jirengu\dom-2\src\jquery.js133006985205373514 0
+33D:\Yang\jirengu\dom-2\src\main.js133006985619814625 0
